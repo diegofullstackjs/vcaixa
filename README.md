@@ -19,8 +19,34 @@
 {
 	"username" : "kanijo22",
 	"email" : "kelvin.fabiana@gmail.com",
-	"password" : "madrid1986",
+	"password" : "password",
 	"nome" : "kelvin diego"
 }
+```
+2. Autentificação
+```json
+{
+	"email" : "kelvin.fabiana@gmail.com",
+	"password" : "password"
+}
+```
+Resposta:
+```json
+{
+  "token": {
+    "type": "bearer",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjEsImlhdCI6MTU4NjA0NzY5MX0.adZUwwLThCby-aGYHbTgybVeLeiVl4YuxfuXBmZIjy0"
+  }
+}
+
+```
+2. Criar um novo Caixa
+```json
+{
+	"caixa" : "Posto de Gasolina 1",
+	"description" : "Rua exemplo 25A"
+}
+```
+###  deve enviar token tipo bearer
 
 
