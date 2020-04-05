@@ -15,5 +15,12 @@
 ## Rotas da API
 
 1. Criar Conta `http://localhost:3333/api/user/create`
+```json
+{
+	"username" : "kanijo22",
+	"email" : "kelvin.fabiana@gmail.com",
+	"password" : "madrid1986",
+	"nome" : "kelvin diego"
+}
 
 
