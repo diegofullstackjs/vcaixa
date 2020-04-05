@@ -1,28 +1,12 @@
-# Adonis API application
-
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
-
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
-
-## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick --api-only
-```
-
-or manually clone the repo and then run `npm install`.
+# API fluxo de caixa
 
 
-### Migrations
+##  instalação
 
-Run the following command to run startup migrations.
+1. Clone o respositorio
 
-```js
-adonis migration:run
-```
+2. entre na pasta e use `npm install ou yarn `
+
+3. Execute as migration `adonis migration:run`
+
+4. Depois execute `adonis serve --dev`
