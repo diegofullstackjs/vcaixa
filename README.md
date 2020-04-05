@@ -14,13 +14,14 @@
 
 ## Rotas da API
 
-1. Criar Conta `http://localhost:3333/api/user/create `
-      method: POST
-      json: 
-      {
-         username: "username".
-         "email" : "Password",
-         "nome" : "Seu nome"     
-      }
+1. Criar Conta 
+request: `http://localhost:3333/api/user/create` POST
+json: 
+
+{
+username: "username".
+"email" : "Password",
+"nome" : "Seu nome"     
+}
 
 
