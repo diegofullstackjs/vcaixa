@@ -7,6 +7,8 @@
 
 2. entre na pasta e use `npm install ou yarn `
 
+3. configure o banco de dados no arquivo `env.example` depois renomeia para `.env`
+
 3. Execute as migration `adonis migration:run`
 
 4. Depois execute `adonis serve --dev`
