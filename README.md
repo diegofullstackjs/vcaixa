@@ -185,7 +185,7 @@ Resposta:
 }
 ```
 
-## Listar Categorias `http://localhost:3333/categoria/list`
+## Listar Categorias `http://localhost:3333/categoria/list` GET
 Resposta:
 ```json
 {
