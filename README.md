@@ -250,13 +250,13 @@ Resposta:
 
 ### API em funcionamento
 
-[a link](http://caixavirtualdev.herokuapp.com/api/user/create)    Criar conta usuario
-[a link](http://caixavirtualdev.herokuapp.com/api/user/login)     Login usuario
-[a link](http://caixavirtualdev.herokuapp.com/api/caixa/create)   Criar Caixa ( Autentificação requerida )
-[a link](http://caixavirtualdev.herokuapp.com/api/caixa/list)   Listar Caixas ( Autentificação requerida )
-[a link](http://caixavirtualdev.herokuapp.com/api/categoria/create)   Criar Categorias ( Autentificação requerida )
-[a link](http://caixavirtualdev.herokuapp.com/api/categoria/list)   Listar Categorias ( Autentificação requerida )
-[a link](http://caixavirtualdev.herokuapp.com/api/fluxo/create)    Operação com o caixa ( Autentificação requerida )
+[a Criar Conta](http://caixavirtualdev.herokuapp.com/api/user/create)    Criar conta usuario
+[a Login](http://caixavirtualdev.herokuapp.com/api/user/login)     Login usuario
+[a Criar Caixa](http://caixavirtualdev.herokuapp.com/api/caixa/create)   Criar Caixa ( Autentificação requerida )
+[a Listar Caixas](http://caixavirtualdev.herokuapp.com/api/caixa/list)   Listar Caixas ( Autentificação requerida )
+[a Criar Categoria](http://caixavirtualdev.herokuapp.com/api/categoria/create)   Criar Categorias ( Autentificação requerida )
+[a Listar Categorias](http://caixavirtualdev.herokuapp.com/api/categoria/list)   Listar Categorias ( Autentificação requerida )
+[a Operação com o caixa ](http://caixavirtualdev.herokuapp.com/api/fluxo/create)    Operação com o caixa ( Autentificação requerida )
 
 
 
