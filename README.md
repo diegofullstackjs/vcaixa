@@ -248,3 +248,16 @@ Resposta:
 ###  deve enviar token tipo bearer nas rotas de: (Criar Caixa, Listar Caixa, Criar Categorias, Listar Categorias, e Operação com o caixa )
 
 
+### API em funcionamento
+
+[a link](http://caixavirtualdev.herokuapp.com/api/user/create)    Criar conta usuario
+[a link](http://caixavirtualdev.herokuapp.com/api/user/login)     Login usuario
+[a link](http://caixavirtualdev.herokuapp.com/api/caixa/create)   Criar Caixa ( Autentificação requerida )
+[a link](http://caixavirtualdev.herokuapp.com/api/caixa/list)   Listar Caixas ( Autentificação requerida )
+[a link](http://caixavirtualdev.herokuapp.com/api/categoria/create)   Criar Categorias ( Autentificação requerida )
+[a link](http://caixavirtualdev.herokuapp.com/api/categoria/list)   Listar Categorias ( Autentificação requerida )
+[a link](http://caixavirtualdev.herokuapp.com/api/fluxo/create)    Operação com o caixa ( Autentificação requerida )
+
+
+
+
